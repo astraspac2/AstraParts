@@ -1,3 +1,3 @@
 # AstraParts
-My Very First KSP Mod
-no models yet 
+My Very First KSP Mod.
+no models yet sadly
